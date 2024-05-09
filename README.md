@@ -4,7 +4,7 @@ This repository contains the final projects of the Power BI Analyst course by DI
 
 # Project 01 
 
-It is composed by a sales report made on Power BI - project 01.
+It is composed by a sales report made on Power BI.
 
 # Project 02 
 
