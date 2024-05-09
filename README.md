@@ -16,14 +16,25 @@ The following steps were performed to transform the data:
 
 2. Transforming data:
 	-> Checked column types.
+   
 	-> Renamed columns.
-	-> Changed salaries to double. 
+   
+	-> Changed salaries to double.
+   
 	-> Checked if all departments have managers.
+   
 	-> Removed null values.
+   
 	-> Split address columns.
+   
 	-> Split birthday columns.
+   
 	-> Merged Employees table with Departments table.
+   
 	-> Merged Departments and Departments_locations table.
+   
 	-> Merged Employees and Managers Names.
+   
 	-> Grouped Employees by Managers.
+   
 	-> Created a small report showing important data.
